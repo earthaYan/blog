@@ -5,7 +5,7 @@ export default defineConfig({
   // 站点配置
   title: 'Blog',
   description: 'Blog powered by vitepress 1.x',
-  base: '/blog/',
+  base: '/vitepress_blog/',
   // 主题配置
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
