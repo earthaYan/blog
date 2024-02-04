@@ -15,10 +15,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Powered by vitepress 1.x
+    details: This blog  migrate from hexo
+  - title: Certain Categories
+    details: Article only can choose certain categories
+  - title: keep synchronous
+    details: I will keep all articles synchronous
 ---
