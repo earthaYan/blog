@@ -15,7 +15,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: generateHeaderNav(),
-    logo:'/blog/favicon.ico',
+    logo:'/logo.png',
     socialLinks: [{ icon: 'github', link: 'https://github.com/earthaYan' }],
   },
 });
