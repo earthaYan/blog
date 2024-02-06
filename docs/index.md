@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: 'Blog'
+  name: 'blog'
   text: 'Blog powered by vitepress 1.x'
   tagline: My great project tagline
   actions:
@@ -17,8 +17,8 @@ hero:
 features:
   - title: Powered by vitepress 1.x
     details: This blog  migrate from hexo
-  - title: Certain Categories
+  - title: Simple Categories
     details: Article only can choose certain categories
   - title: keep synchronous
-    details: I will keep all articles synchronous
+    details: will keep all articles synchronous
 ---
