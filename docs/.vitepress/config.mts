@@ -4,7 +4,7 @@ import { generateHeaderNav } from './config.data';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // 站点配置
-  title: '📝烂笔头',
+  title: '烂笔头',
   titleTemplate: true,
   description: 'Blog powered by vitepress 1.x',
   head: [['link', { rel: 'icon', href: '/blog/favicon.ico' }]],
