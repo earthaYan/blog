@@ -9,13 +9,15 @@ export default defineConfig({
   description: 'Blog powered by vitepress 1.x',
   head: [['link', { rel: 'icon', href: '/blog/favicon.ico' }]],
   base: '/blog/',
-  lang: 'zh-Hans',
   lastUpdated: true,
   // 主题配置
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: generateHeaderNav(),
-    logo:'/logo.png',
+    logo: '/logo.png',
+    search: {
+      provider: 'local',
+    },
     socialLinks: [{ icon: 'github', link: 'https://github.com/earthaYan' }],
   },
 });
